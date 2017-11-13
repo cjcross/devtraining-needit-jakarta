@@ -1,4 +1,6 @@
 # Generated files
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2Fdevtraining-needit-jakarta.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2Fdevtraining-needit-jakarta?ref=badge_shield)
+
 This repository contains generated files and a checksum.
 
 **Do not edit the files in this repository outside of an instance of ServiceNow.**
@@ -18,3 +20,7 @@ If you find yourself unable to import your repository due to the presence of fil
   4. Run `git add -A`
   5. Run `git commit`
   6. Run `git push`
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2Fdevtraining-needit-jakarta.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2Fdevtraining-needit-jakarta?ref=badge_large)
